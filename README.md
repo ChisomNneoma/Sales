@@ -49,6 +49,8 @@ Sales Previous Month = CALCULATE(SUM('Sales Folder FACT'[Sales]), PREVIOUSMONTH(
 
 
 
+
+
 Next is the Customer's demography report. All represented by charts.
 
 - Top 5 active customers
