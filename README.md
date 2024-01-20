@@ -1,5 +1,13 @@
 # Super Store Sales Analysis
 
+### Click to View Easily
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Result of Analysis](#result-of-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [View Dashboard](#view-dashboard)
+
 ### Project Overview
 
 This data analysis project aims to provide insight into the monthly sales performance of a Super Store for the period of one year. By analyzing various aspects of the sales data, I aim to identify trends, gain deeper understanding of the store's performance, and make data driven recommendations.
