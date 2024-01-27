@@ -55,13 +55,6 @@ Sales Previous Month = CALCULATE(SUM('Sales Folder FACT'[Sales]), PREVIOUSMONTH(
 ```
 
 
-
-
-![Salesdb1.JPG](https://github.com/ChisomNneoma/Sales/assets/154308780/ee646fa1-a97e-489c-8fb8-a0939d930410)
-
-
-
-
 Next is the Customer's demography report. All represented by charts.
 
 - Top 5 active customers
